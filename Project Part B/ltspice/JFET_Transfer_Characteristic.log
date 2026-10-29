@@ -1,0 +1,16 @@
+LTspice 26.1.1 for Windows
+Circuit: C:\Users\Admin\Desktop\JFET_LTspice\JFET_Transfer_Characteristic.net
+Start Time: Thu Oct  8 22:12:10 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+AsciiRawFile = true
+Total elapsed time: 0.045 seconds.
+Total iterations: 645
+
+Files loaded:
+C:\Users\Admin\Desktop\JFET_LTspice\JFET_Transfer_Characteristic.net
+C:\Users\Admin\AppData\Local\LTspice\lib\cmp\standard.jft
+

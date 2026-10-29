@@ -1,0 +1,23 @@
+LTspice 26.1.1 for Windows
+Circuit: C:\Users\Admin\Desktop\JFET_LTspice\JFET_Output_Characteristics.net
+Start Time: Thu Oct  8 22:12:08 2026
+solver = Normal
+Maximum thread count: 8
+tnom = 27
+temp = 27
+method = trap
+AsciiRawFile = true
+.OP point found by inspection.
+.step V2=0 
+.step V2=-0.5 
+.step V2=-1 
+.step V2=-1.5 
+.step V2=-2 
+.step V2=-2.5 
+Total elapsed time: 0.099 seconds.
+Total iterations: 1821
+
+Files loaded:
+C:\Users\Admin\Desktop\JFET_LTspice\JFET_Output_Characteristics.net
+C:\Users\Admin\AppData\Local\LTspice\lib\cmp\standard.jft
+
